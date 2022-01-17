@@ -1,8 +1,8 @@
 module.exports = {
-  title: '个人主页',
+  title: 'yh-orange 学习笔记',
   description: 'Personal Website',
   head: [ // 注入到当前页面的 HTML <head> 中的标签
-    ['link', { rel: 'icon', href: '/images/photo.jpg' }],
+    ['link', { rel: 'icon', href: '/public/images/photo.jpg' }],
     ['link', { rel: 'manifest', href: '/images/photo.jpg' }],
     ['link', { rel: 'apple-touch-icon', href: '/images/photo.jpg' }],
     ['meta', { 'http-quiv': 'pragma', cotent: 'no-cache'}],
@@ -16,10 +16,8 @@ module.exports = {
   },
   themeConfig: {
     nav:[ // 导航栏配置
-      {text: '前端基础', link: '/accumulate/' },
-      {text: '算法题库', link: '/algorithm/'},
-      {text: '诗和远方', link: '/others/'},
-      {text: '微博', link: 'https://baidu.com'}      
+      {text: 'Markdown学习笔记', link: '/md-study-note/' },
+      {text: '自己的网站', link: 'https://www.gaoniao.top'}
     ],
     // sidebar:{
     //   '/accumulate/': [
