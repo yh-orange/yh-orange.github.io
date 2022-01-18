@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/deploy.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-27">
-              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="270">
+              <caret line="22" column="74" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -239,7 +239,7 @@
       <workItem from="1640224684414" duration="3066000" />
       <workItem from="1640229671810" duration="15000" />
       <workItem from="1642401229083" duration="8792000" />
-      <workItem from="1642466285104" duration="18990000" />
+      <workItem from="1642466285104" duration="19649000" />
     </task>
     <task id="LOCAL-00001" summary="vue express dome init">
       <created>1640165658492</created>
@@ -287,7 +287,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39162000" />
+    <option name="totallyTimeSpent" value="39821000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -570,8 +570,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="270">
+          <caret line="22" column="74" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="74" />
         </state>
       </provider>
     </entry>
